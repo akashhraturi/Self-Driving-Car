@@ -1,6 +1,1 @@
-So I've made a project called Self Driving Car. The car works on the concept of Artificial Intelligence. A living penalty gets applied whenever it makes a wrong decision and is awarded whenever goes according to the plan. Some important concepts involved while developing the model are Reinforcement Learning, Deep Learning, Artificial Neural Network, Markov Decision Process, Gradient Descent and more. 
-
-I thought of working on this project as I'm an admirer of Elon Musk. He has a car company called Tesla which is already using the Artificial Intelligence and has self driving cars. So I wanted to grasp that concept how of it works. Although this is not as efficient as that, but it helped me understand a lot about the work that they do.
-
-One of the biggest problem I faced during the development phase is of setting up the appropriate running environment for it. A lot of libraries, python version, packages required a lot of changes up and down, but I solved it thanks to Stack Overflow.
-Another challenge was selecting the right Action Selection Policy. There are thee of it named epsilon-Greedy, epsilom-soft and the Softmax function. I was confused on which one to select to get the best result out of all. But the softmax proved to be a better choice out of them.
+Self Driving Car
